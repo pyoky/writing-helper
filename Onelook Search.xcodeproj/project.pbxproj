@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B0AEC8132492154D000E3E28 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0AEC8122492154D000E3E28 /* main.swift */; };
+		B0AEC81A24921609000E3E28 /* Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0AEC81924921609000E3E28 /* Search.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		B0AEC80F2492154D000E3E28 /* Onelook Search */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Onelook Search"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0AEC8122492154D000E3E28 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B0AEC81924921609000E3E28 /* Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Search.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				B0AEC8122492154D000E3E28 /* main.swift */,
+				B0AEC81924921609000E3E28 /* Search.swift */,
 			);
 			path = "Onelook Search";
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B0AEC8132492154D000E3E28 /* main.swift in Sources */,
+				B0AEC81A24921609000E3E28 /* Search.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
